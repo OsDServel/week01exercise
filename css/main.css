@@ -1,0 +1,39 @@
+.nav {
+	background-color: crimson;
+	padding: 20px 35px;
+	text-align: center;
+
+}
+li {
+	display: inline-block;
+	background: black;
+	padding: 5px;
+	margin: 10px;
+}
+a {
+	color: white;
+	text-decoration: none;
+	text-shadow: -1px 1px;
+	font-size: 20px;
+}
+.box {
+	display:inline-block;
+	width:40%;
+}
+img {
+	width:60%;
+}
+div.box {
+	width: 375px;
+	background-color: green;
+}
+body {
+	text-align: center;
+	background-color: yellow;
+}
+.html {
+	color:#2BA8E0;
+}
+.css {
+	color: #EE6526;
+}
